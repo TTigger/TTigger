@@ -25,9 +25,10 @@
 
 <div align="center">
 
-<!-- 淺色主題顯示這張（米色卡） -->
-![TTigger's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=F7F6F3&title_color=3F3C37&text_color=6B6862&icon_color=A39E94&ring_color=8C8579&card_width=340#gh-light-mode-only)
-<!-- 深色主題顯示這張（透明底，融入 GitHub 暗色背景） -->
-![TTigger's GitHub stats](https://github-readme-stats.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=C9C5BD&text_color=B8B3A8&icon_color=A39E94&ring_color=8C8579&card_width=340#gh-dark-mode-only)
+<!-- 自架實例（TTigger/github-readme-stats on Vercel）；<picture> 依主題自動切換，深色透明底、淺色米色卡 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-taupe-71.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=C9C5BD&text_color=B8B3A8&icon_color=A39E94&ring_color=8C8579&card_width=340">
+  <img alt="TTigger's GitHub stats" src="https://github-readme-stats-phi-taupe-71.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=F7F6F3&title_color=3F3C37&text_color=6B6862&icon_color=A39E94&ring_color=8C8579&card_width=340">
+</picture>
 
 </div>
