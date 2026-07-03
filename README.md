@@ -11,9 +11,9 @@
 <br>
 
 #### 🛠 Claude Code / AI
-- **[claude-status](https://github.com/TTigger/claude-status)** — Portable Claude Code statusline HUD: model, project, git, context bar, and real usage limits, right in your terminal.
-- **[ccpop](https://github.com/TTigger/ccpop)** — Near-zero-token Claude Code helpers: pop markdown into a window, open your IDE at a line, start a dev server, or review your session timeline — without leaving the chat. Pure Node, zero deps.
-- **[looprails](https://github.com/TTigger/looprails)** — A boilerplate for closed-loop development: an AI agent generates code, runs the verifier, fixes failures, records what it learned, and repeats — or stops and asks for help.
+- **[claude-status](https://github.com/TTigger/claude-status)** — Portable Claude Code statusline HUD: model, project, git, context bar, and real usage limits, right in your terminal. (JavaScript)
+- **[ccpop](https://github.com/TTigger/ccpop)** — Near-zero-token Claude Code helpers: pop markdown into a window, open your IDE at a line, start a dev server, or review your session timeline — without leaving the chat. Pure Node, zero deps. (JavaScript)
+- **[looprails](https://github.com/TTigger/looprails)** — A boilerplate for closed-loop development: an AI agent generates code, runs the verifier, fixes failures, records what it learned, and repeats — or stops and asks for help. (JavaScript)
 - **[mask](https://github.com/TTigger/mask)** — Distill anything. Wear anyone. An agent-native persona distillation framework. (TypeScript)
 
 #### 🌐 Web / Tools
