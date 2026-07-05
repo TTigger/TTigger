@@ -14,10 +14,10 @@
 - **[claude-status](https://github.com/TTigger/claude-status)** — Portable Claude Code statusline HUD: model, project, git, context bar, and real usage limits, right in your terminal. (JavaScript)
 - **[ccpop](https://github.com/TTigger/ccpop)** — Near-zero-token Claude Code helpers: pop markdown into a window, open your IDE at a line, start a dev server, or review your session timeline — without leaving the chat. Pure Node, zero deps. (JavaScript)
 - **[looprails](https://github.com/TTigger/looprails)** — A boilerplate for closed-loop development: an AI agent generates code, runs the verifier, fixes failures, records what it learned, and repeats — or stops and asks for help. (JavaScript)
-- **[mask](https://github.com/TTigger/mask)** — Distill anything. Wear anyone. An agent-native persona distillation framework. (TypeScript)
+- **[mask](https://github.com/TTigger/mask)** — Distill anything. Wear anyone. An agent-native persona distillation framework. (TypeScript) · [live ↗](https://ttigger.github.io/mask/)
 
 #### 🌐 Web / Tools
-- **[tiglet](https://github.com/TTigger/tiglet)** — A clean, no-login collection of small browser tools — and a personal portfolio piece. (TypeScript)
+- **[tiglet](https://github.com/TTigger/tiglet)** — A clean, no-login collection of small browser tools — and a personal portfolio piece. (TypeScript) · [live ↗](https://tiglet.vercel.app)
 
 <!-- 之後本地 repo 推上來，把下面整段解除註解即可：
 #### 🚴 Cycling
@@ -32,6 +32,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-taupe-71.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=C9C5BD&text_color=B8B3A8&icon_color=A39E94&ring_color=8C8579&card_width=340">
   <img alt="TTigger's GitHub stats" src="https://github-readme-stats-phi-taupe-71.vercel.app/api?username=TTigger&show_icons=true&hide_border=true&hide_title=true&bg_color=F7F6F3&title_color=3F3C37&text_color=6B6862&icon_color=A39E94&ring_color=8C8579&card_width=340">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-taupe-71.vercel.app/api/top-langs/?username=TTigger&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&title_color=C9C5BD&text_color=B8B3A8&card_width=340">
+  <img alt="TTigger's most used languages" src="https://github-readme-stats-phi-taupe-71.vercel.app/api/top-langs/?username=TTigger&layout=compact&hide_border=true&hide_title=true&bg_color=F7F6F3&title_color=3F3C37&text_color=6B6862&card_width=340">
 </picture>
 
 </div>
